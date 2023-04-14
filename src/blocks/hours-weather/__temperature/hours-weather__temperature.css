@@ -1,0 +1,35 @@
+.hours-weather__temperature {
+    font-size: 48px;
+    margin: 24px 0 12px;
+    font-family: 'Proxima Nova Rg';
+    font-weight: 400;
+}
+
+@media screen and (max-width: 1024px){
+    .hours-weather__temperature{
+        font-size: 32px;
+        margin: 18px 0 6px;
+    }
+}
+
+@media screen and (max-width: 630px){
+    .hours-weather__temperature{
+        font-size: 22px;
+        margin: 14px 0 6px;
+    }
+}
+
+@media screen and (max-width: 520px){
+    .hours-weather__temperature{
+        font-size: 18px;
+        margin: 14px 0 6px;
+    }
+}
+
+
+@media screen and (max-width: 470px){
+    .hours-weather__temperature{
+        font-size: 18px;
+        margin: 14px 0 6px;
+    }
+}

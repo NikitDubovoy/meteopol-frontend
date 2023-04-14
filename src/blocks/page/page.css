@@ -1,0 +1,24 @@
+.page {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    font-family: 'Proxima Nova Rg';
+    font-weight: 400;
+    background-color: #666;
+    margin: 0;
+    display: flex;
+    color: #fff;
+    padding: 40px 80px 60px;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+
+}
+
+@media screen and (max-width: 1024px){
+    .page{
+        padding: 0px;
+    }
+}

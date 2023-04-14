@@ -1,0 +1,16 @@
+@keyframes appearance {
+
+    0% {
+      width: 0%;
+    }
+
+    100% {
+      width: 100%;
+    }
+
+  }
+
+  .animation__appearance {
+
+    animation: appearance 2s 1s 1 ease-out forwards;
+  }

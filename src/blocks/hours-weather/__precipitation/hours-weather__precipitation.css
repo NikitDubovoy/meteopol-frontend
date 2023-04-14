@@ -1,0 +1,18 @@
+.hours-weather__precipitation {
+    font-size: 18px;
+    font-family: 'Proxima Nova Th';
+    font-weight: 100;
+}
+
+
+@media screen and (max-width: 630px){
+    .hours-weather__precipitation {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 414px){
+    .hours-weather__precipitation {
+        font-size: 11px;
+    }
+}

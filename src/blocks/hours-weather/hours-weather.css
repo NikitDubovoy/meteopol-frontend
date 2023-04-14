@@ -1,0 +1,59 @@
+.hours-weather {
+    max-width: 85px;
+    padding: 28px 20px;
+    cursor: pointer;
+    border-top: 2px solid rgba(255,255,255, 0);
+    border-bottom: 2px solid  rgba(255,255,255, 0);
+    overflow: hidden;
+}
+
+.hours-weather:hover{
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    padding: 28px 20px;
+    transition: 0.3s;
+}
+
+
+@media screen and (max-width: 1024px){
+    .hours-weather{
+        padding: 18px 18px;
+        max-width: 70px;
+    }
+    .hours-weather:hover{
+        padding: 18px 18px;
+    }
+}
+
+
+@media screen and (max-width: 900px){
+    .hours-weather{
+        padding: 18px 11px;
+        max-width: 70px;
+    }
+    .hours-weather:hover{
+        padding: 18px 11px;
+    }
+}
+
+@media screen and (max-width: 520px){
+    .hours-weather{
+        min-width: 40px;
+        padding: 0px 4px;
+        max-width: 70px;
+    }
+    .hours-weather:hover{
+        padding: 0px 4px;
+    }
+}
+
+@media screen and (max-width: 414px){
+    .hours-weather{
+        min-width: 37px;
+        padding: 0px 4px;
+        max-width: 70px;
+    }
+    .hours-weather:hover{
+        padding: 0px 4px;
+    }
+}

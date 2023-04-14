@@ -1,0 +1,12 @@
+.today__temperature{
+    color: #fff;
+    font-size: 48px;
+    font-family: 'Proxima Nova Th';
+    font-weight: 100;
+}
+
+@media screen and (max-width: 1024px){
+    .today__temperature{
+        font-size: 24px;
+    }
+}

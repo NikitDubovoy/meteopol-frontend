@@ -1,0 +1,15 @@
+.splash-screen__logo {
+    background-image: url(../../../img/logo/logo-opt.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    display: block;
+    width: 250px;
+    height: 145px;
+}
+
+@media screen and (max-width: 620px){
+    .splash-screen__logo{
+        background-size: 200px;
+        width: 200px;
+    }
+}

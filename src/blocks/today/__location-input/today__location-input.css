@@ -1,0 +1,23 @@
+.today__location-input {
+  background-color: rgba(0, 0, 0, 0.2);
+  min-width: 255px;
+  border: none;
+  margin-left: 5px;
+  height: 30px;
+  border-radius: 4px;
+  color: #fff;
+  padding: 0 5px;
+  position: relative;
+}
+
+@media screen and (max-width: 1024px) {
+  .today__location-input {
+    min-width: 200px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .today__location-input {
+    min-width: 150px;
+  }
+}

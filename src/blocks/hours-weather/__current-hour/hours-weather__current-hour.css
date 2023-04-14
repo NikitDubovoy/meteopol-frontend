@@ -1,0 +1,23 @@
+.hours-weather__current-hour {
+    font-size: 16px;
+}
+
+
+@media screen and (max-width: 1024px){
+    .hours-weather__current-hour{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 630px){
+    .hours-weather__current-hour{
+        font-size: 12px;
+    }
+}
+
+
+@media screen and (max-width: 520px){
+    .hours-weather__current-hour{
+        font-size: 11px;
+    }
+}
