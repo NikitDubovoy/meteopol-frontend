@@ -1,8 +1,14 @@
-export const createGetBackground = (cloudiness, storm, precipitation, fog) => {
+export const createGetBackground = (
+  hours,
+  cloudiness,
+  storm,
+  precipitation,
+  fog
+) => {
   const nameImage = [];
   const now = new Date();
   const currentMonth = now.getMonth();
-  const currentHours = now.getHours();
+  const currentHours = new Date(hours).getHours();
 
   if (currentMonth >= 2 && currentMonth <= 11) {
     nameImage.season = "summer";

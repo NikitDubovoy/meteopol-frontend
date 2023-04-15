@@ -17,8 +17,9 @@ function App() {
   const [isDownloadSypexgeoApi, setDownloadSypexgeoApi] = useState(false);
   const [isDownloadImage, setDownloadImage] = useState(false);
   const [isDownloadDownloadAll, setDownloadDownloadAll] = useState(false);
-  const date = new Date().getHours();
-  const unixDate = new Date().getTime();
+  const date = new Date();
+  const dateHours = date.getHours();
+  const unixDate = date.getTime();
 
   const compareDates = (date1, date2) => {
     const formatDate = (date) => {
@@ -51,30 +52,10 @@ function App() {
     }
   };
 
-  const getPositionUser = new Promise((resolve, reject) => {
-    let geo = { lat: 0, lon: 0 };
-    const succes = (position) => {
-      geo = {
-        lat: position.coords.latitude ? position.coords.latitude : 0,
-        lon: position.coords.longitude ? position.coords.longitude : 0,
-      };
-      resolve(geo);
-    };
-
-    const error = () => {
-      resolve(geo);
-    };
-
-    if (!navigator.geolocation) {
-      reject("Ошибка получения данных местопложения");
-    } else {
-      navigator.geolocation.getCurrentPosition(succes, error);
-    }
-  });
-
   useEffect(() => {
     if (Object.keys(currentWeather).length) {
       const image = createGetBackground(
+        currentWeather.date.local,
         currentWeather.cloudiness.type,
         currentWeather.storm,
         currentWeather.precipitation.type,
@@ -91,7 +72,8 @@ function App() {
         })
         .finally(() => setDownloadImage(true));
     }
-  }, [weatherToday]);
+    console.log(Object.keys(currentWeather).length);
+  }, [weatherToday, currentWeather]);
 
   useEffect(() => {
     if (Object.keys(currentUser).length) {
@@ -121,20 +103,16 @@ function App() {
     sypexgeoApi()
       .getIp()
       .then((data) => {
-        getPositionUser
-          .then((geo) => {
-            setCurrentUser({
-              ip: data.ip,
-              geolocation: {
-                lat: geo.lat ? geo.lat : data.city.lat,
-                lon: geo.lon ? geo.lon : data.city.lon,
-                country: data.country.name_ru,
-                region: data.region.name_ru,
-                city: data.city.name_ru,
-              },
-            });
-          })
-          .catch((err) => console.log(err));
+        setCurrentUser({
+          ip: data.ip,
+          geolocation: {
+            lat: data.city.lat,
+            lon: data.city.lon,
+            country: data.country.name_ru,
+            region: data.region.name_ru,
+            city: data.city.name_ru,
+          },
+        });
       })
       .catch((err) => console.log(err))
       .finally(() => setDownloadSypexgeoApi(true));
@@ -142,7 +120,7 @@ function App() {
 
   useEffect(() => {
     weatherToday.find((weather) => {
-      if (floorTime(date) === new Date(weather.date.local).getHours())
+      if (floorTime(dateHours) === new Date(weather.date.local).getHours())
         setCurrentWeather(weather);
     });
   }, [weatherToday]);
