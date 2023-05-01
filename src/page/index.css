@@ -13,6 +13,8 @@
 @import url(../blocks/today/today.css);
 @import url(../blocks/today/__weather-icon/today__weather-icon.css);
 @import url(../blocks/today/__main/today__main.css);
+@import url(../blocks/today/__info/today__info.css);
+@import url(../blocks/today/__link/today__link.css);
 @import url(../blocks/today/__weather/today__weather.css);
 @import url(../blocks/today/__temperature/today__temperature.css);
 @import url(../blocks/today/__location/today__location.css);

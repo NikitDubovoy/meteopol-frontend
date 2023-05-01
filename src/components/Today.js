@@ -77,6 +77,16 @@ const Today = (props) => {
         <li className="today__temperature">
           {`${Math.round(currentWeather.temperature.air.C)}°С`}
         </li>
+        <li className="today__info">
+          Данные о погоде предоставлены сервисом{" "}
+          <a
+            className="today__link"
+            href="https://www.gismeteo.ru/"
+            target="_blank"
+          >
+            gismeteo.ru
+          </a>
+        </li>
         <li className="today__location">
           <form className="today__location-form">
             <label>

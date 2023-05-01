@@ -52,6 +52,27 @@ function App() {
     }
   };
 
+  const getPositionUser = new Promise((resolve, reject) => {
+    let geo = { lat: 0, lon: 0 };
+    const succes = (position) => {
+      geo = {
+        lat: position.coords.latitude ? position.coords.latitude : 0,
+        lon: position.coords.longitude ? position.coords.longitude : 0,
+      };
+      resolve(geo);
+    };
+
+    const error = () => {
+      resolve(geo);
+    };
+
+    if (!navigator.geolocation) {
+      reject("Ошибка получения данных местопложения");
+    } else {
+      navigator.geolocation.getCurrentPosition(succes, error);
+    }
+  });
+
   useEffect(() => {
     if (Object.keys(currentWeather).length) {
       const image = createGetBackground(
@@ -72,7 +93,6 @@ function App() {
         })
         .finally(() => setDownloadImage(true));
     }
-    console.log(Object.keys(currentWeather).length);
   }, [weatherToday, currentWeather]);
 
   useEffect(() => {
@@ -103,16 +123,20 @@ function App() {
     sypexgeoApi()
       .getIp()
       .then((data) => {
-        setCurrentUser({
-          ip: data.ip,
-          geolocation: {
-            lat: data.city.lat,
-            lon: data.city.lon,
-            country: data.country.name_ru,
-            region: data.region.name_ru,
-            city: data.city.name_ru,
-          },
-        });
+        getPositionUser
+          .then((geo) => {
+            setCurrentUser({
+              ip: data.ip,
+              geolocation: {
+                lat: geo.lat ? geo.lat : data.city.lat,
+                lon: geo.lon ? geo.lon : data.city.lon,
+                country: data.country.name_ru,
+                region: data.region.name_ru,
+                city: data.city.name_ru,
+              },
+            });
+          })
+          .catch((err) => console.log(err));
       })
       .catch((err) => console.log(err))
       .finally(() => setDownloadSypexgeoApi(true));
