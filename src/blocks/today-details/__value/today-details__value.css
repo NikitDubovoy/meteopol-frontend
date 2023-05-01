@@ -1,0 +1,17 @@
+.today-details__value {
+    font-size: 28px;
+    margin-top: 9px;
+    font-family: 'Proxima Nova Th'
+}
+
+@media screen and (max-width: 1024px){
+    .today-details__value{
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 620px){
+    .today-details__value{
+        font-size: 20px;
+    }
+}

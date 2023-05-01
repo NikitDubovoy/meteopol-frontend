@@ -1,0 +1,25 @@
+.today__weather{
+    font-family: 'Proxima Nova Th';
+    max-width: 340px;
+    min-height: 70px;
+    color: #fff;
+    font-weight: 400;
+    font-size: 28px;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 38px;
+}
+
+@media screen and (max-width: 1024px){
+    .today__weather{
+        font-size: 22px;
+        padding-bottom: 24px;
+    }
+}
+
+@media screen and (max-width: 620px){
+    .today__weather{
+        font-size: 20px;
+        padding-bottom: 24px;
+    }
+}

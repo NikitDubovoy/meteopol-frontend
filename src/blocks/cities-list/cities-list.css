@@ -1,0 +1,36 @@
+.cities-list {
+  max-width: 200px;
+  position: absolute;
+  list-style-type: none;
+  padding: 0;
+  margin-top: 5px;
+  max-height: 300px;
+  overflow-y: scroll;
+  left: 17px;
+  top: 30px;
+  font-size: 14px;
+  border-radius: 4px;
+  font-family: "Proxima Nova Lt";
+  font-weight: 100;
+  background-color: rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  visibility: hiden;
+  transition: 0.1s;
+}
+
+.cities-list::-webkit-scrollbar {
+  width: 8px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.cities-list::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.cities-list::-webkit-scrollbar-thumb:hover {
+  background-color: #fff;
+  transition: 0.3s;
+}

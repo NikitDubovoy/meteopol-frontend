@@ -1,0 +1,14 @@
+.today-details__block {
+    display: flex;
+    margin-bottom: 35px;
+}
+
+.today-details__block:last-of-type {
+    margin: 0;
+}
+
+@media screen and (max-width: 1024px){
+    .today-details__block{
+        margin-bottom: 25px;
+    }
+}

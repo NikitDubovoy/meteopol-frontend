@@ -1,0 +1,18 @@
+.today-details {
+    padding: 20px 40px;
+    list-style-type: none;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0);
+} 
+
+@media screen and (max-width: 1024px){
+    .today-details{
+       border-left: 1px solid #fff;
+    }
+}
+
+@media screen and (max-width: 620px){
+    .today-details{
+        padding: 20px 20px;
+    }
+}

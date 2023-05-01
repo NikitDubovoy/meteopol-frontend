@@ -1,0 +1,8 @@
+.hours-weather__mini-info {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}

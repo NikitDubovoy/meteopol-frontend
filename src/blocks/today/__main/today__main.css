@@ -1,0 +1,15 @@
+.today__main{
+    padding: 0;
+    margin: 0;
+    min-width: 180px;
+    list-style-type: none;
+    padding: 20px 30px;
+    border-radius: 9px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0);
+}
+
+@media screen and (max-width: 620px){
+    .today__main{
+        min-width: 120px;
+    }
+}

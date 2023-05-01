@@ -1,0 +1,14 @@
+.hours-weather__mini-icon {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+}
+
+@media screen and (max-width: 1024px){
+    .hours-weather__mini-icon {
+        display: none;
+    }
+}

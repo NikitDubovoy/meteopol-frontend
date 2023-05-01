@@ -1,0 +1,5288 @@
+{
+    "meta": {
+        "message": "",
+        "code": "200"
+    },
+    "response": [
+        {
+            "precipitation": {
+                "type_ext": null,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 1005,
+                "mm_hg_atm": 754,
+                "in_hg": 39.6
+            },
+            "humidity": {
+                "percent": 73
+            },
+            "icon": "n_c2",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": 330,
+                    "scale_8": 8
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 2,
+                "percent": 50
+            },
+            "date": {
+                "UTC": "2023-02-27 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-02-28 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677531600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Obs",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -8.5,
+                    "F": 16.7
+                },
+                "water": {
+                    "C": 3,
+                    "F": 37.4
+                },
+                "air": {
+                    "C": -2.9,
+                    "F": 26.8
+                }
+            },
+            "description": {
+                "full": "Облачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": null,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 1006,
+                "mm_hg_atm": 755,
+                "in_hg": 39.6
+            },
+            "humidity": {
+                "percent": 73
+            },
+            "icon": "c3",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": 330,
+                    "scale_8": 8
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 86
+            },
+            "date": {
+                "UTC": "2023-02-28 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-02-28 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677542400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Obs",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -8.8,
+                    "F": 16.2
+                },
+                "water": {
+                    "C": 3,
+                    "F": 37.4
+                },
+                "air": {
+                    "C": -3.7,
+                    "F": 25.3
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": null,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 1005,
+                "mm_hg_atm": 754,
+                "in_hg": 39.6
+            },
+            "humidity": {
+                "percent": 75
+            },
+            "icon": "c3",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 340,
+                    "scale_8": 1
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 75
+            },
+            "date": {
+                "UTC": "2023-02-28 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-02-28 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677553200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Obs",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -8.5,
+                    "F": 16.7
+                },
+                "water": {
+                    "C": 3,
+                    "F": 37.4
+                },
+                "air": {
+                    "C": -4.2,
+                    "F": 24.4
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": null,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 1005,
+                "mm_hg_atm": 754,
+                "in_hg": 39.6
+            },
+            "humidity": {
+                "percent": 79
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 310,
+                    "scale_8": 8
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-02-28 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-02-28 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677564000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Obs",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -9.6,
+                    "F": 14.7
+                },
+                "water": {
+                    "C": 3,
+                    "F": 37.4
+                },
+                "air": {
+                    "C": -4.3,
+                    "F": 24.3
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": null,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 1004,
+                "mm_hg_atm": 753,
+                "in_hg": 39.5
+            },
+            "humidity": {
+                "percent": 73
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 290,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 75
+            },
+            "date": {
+                "UTC": "2023-02-28 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-02-28 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677574800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 5
+            },
+            "city": 5026,
+            "kind": "Obs",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -9.3,
+                    "F": 15.3
+                },
+                "water": {
+                    "C": 3,
+                    "F": 37.4
+                },
+                "air": {
+                    "C": -3.5,
+                    "F": 25.7
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": null,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 1001,
+                "mm_hg_atm": 751,
+                "in_hg": 39.4
+            },
+            "humidity": {
+                "percent": 70
+            },
+            "icon": "d_c1",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 270,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 25
+            },
+            "date": {
+                "UTC": "2023-02-28 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-02-28 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677585600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 5
+            },
+            "city": 5026,
+            "kind": "Obs",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -7.7,
+                    "F": 18.1
+                },
+                "water": {
+                    "C": 3,
+                    "F": 37.4
+                },
+                "air": {
+                    "C": -2.2,
+                    "F": 28
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": null,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 999,
+                "mm_hg_atm": 749,
+                "in_hg": 39.3
+            },
+            "humidity": {
+                "percent": 72
+            },
+            "icon": "d",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 240,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 0
+            },
+            "date": {
+                "UTC": "2023-02-28 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-02-28 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677596400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 2
+            },
+            "city": 5026,
+            "kind": "Obs",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -7.2,
+                    "F": 19
+                },
+                "water": {
+                    "C": 3,
+                    "F": 37.4
+                },
+                "air": {
+                    "C": -2.4,
+                    "F": 27.7
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": null,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 997,
+                "mm_hg_atm": 748,
+                "in_hg": 39.3
+            },
+            "humidity": {
+                "percent": 76
+            },
+            "icon": "n_c2",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 270,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 32,
+                    "m_s": 9,
+                    "mi_h": 19
+                }
+            },
+            "cloudiness": {
+                "type": 2,
+                "percent": 60
+            },
+            "date": {
+                "UTC": "2023-02-28 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-02-28 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677607200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Obs",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -10.6,
+                    "F": 12.9
+                },
+                "water": {
+                    "C": 3,
+                    "F": 37.4
+                },
+                "air": {
+                    "C": -3,
+                    "F": 26.6
+                }
+            },
+            "description": {
+                "full": "Облачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 996,
+                "mm_hg_atm": 747,
+                "in_hg": 39.2
+            },
+            "humidity": {
+                "percent": 73
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 272,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 22,
+                    "m_s": 6,
+                    "mi_h": 13
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-02-28 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-01 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677618000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -7.7,
+                    "F": 18.1
+                },
+                "water": {
+                    "C": -3.2,
+                    "F": 26.2
+                },
+                "air": {
+                    "C": -1.8,
+                    "F": 28.8
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 994,
+                "mm_hg_atm": 746,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 82
+            },
+            "icon": "c3",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 273,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-01 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-01 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677628800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -6.8,
+                    "F": 19.8
+                },
+                "water": {
+                    "C": -2.6,
+                    "F": 27.3
+                },
+                "air": {
+                    "C": -1.5,
+                    "F": 29.3
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 993,
+                "mm_hg_atm": 745,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 82
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 274,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-01 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-01 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677639600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -6.1,
+                    "F": 21
+                },
+                "water": {
+                    "C": -2.2,
+                    "F": 28
+                },
+                "air": {
+                    "C": -1.1,
+                    "F": 30
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 6,
+                "intensity": 1,
+                "correction": null,
+                "amount": 0.4,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 994,
+                "mm_hg_atm": 746,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 78
+            },
+            "icon": "c3_rs1",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 311,
+                    "scale_8": 8
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 98
+            },
+            "date": {
+                "UTC": "2023-03-01 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-01 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677650400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.2,
+                    "F": 22.6
+                },
+                "water": {
+                    "C": -1.3,
+                    "F": 29.7
+                },
+                "air": {
+                    "C": -0.6,
+                    "F": 30.9
+                }
+            },
+            "description": {
+                "full": "Пасмурно, небольшой мокрый снег"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 994,
+                "mm_hg_atm": 746,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 60
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 307,
+                    "scale_8": 8
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 87
+            },
+            "date": {
+                "UTC": "2023-03-01 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-01 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677661200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 4
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.7,
+                    "F": 21.7
+                },
+                "water": {
+                    "C": 0.9,
+                    "F": 33.6
+                },
+                "air": {
+                    "C": -0.6,
+                    "F": 30.9
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 994,
+                "mm_hg_atm": 746,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 43
+            },
+            "icon": "d",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 307,
+                    "scale_8": 8
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 16
+            },
+            "date": {
+                "UTC": "2023-03-01 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-01 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677672000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 4
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.5,
+                    "F": 22.1
+                },
+                "water": {
+                    "C": 0.9,
+                    "F": 33.6
+                },
+                "air": {
+                    "C": -0.3,
+                    "F": 31.5
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 996,
+                "mm_hg_atm": 747,
+                "in_hg": 39.2
+            },
+            "humidity": {
+                "percent": 58
+            },
+            "icon": "d_c1",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 297,
+                    "scale_8": 8
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 25
+            },
+            "date": {
+                "UTC": "2023-03-01 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-01 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677682800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 2
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.2,
+                    "F": 22.6
+                },
+                "water": {
+                    "C": -3,
+                    "F": 26.6
+                },
+                "air": {
+                    "C": -1.4,
+                    "F": 29.5
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 996,
+                "mm_hg_atm": 747,
+                "in_hg": 39.2
+            },
+            "humidity": {
+                "percent": 67
+            },
+            "icon": "n",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": null,
+                    "scale_8": 0
+                },
+                "speed": {
+                    "km_h": 0,
+                    "m_s": 0,
+                    "mi_h": 0
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 0
+            },
+            "date": {
+                "UTC": "2023-03-01 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-01 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677693600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.1,
+                    "F": 26.4
+                },
+                "water": {
+                    "C": -5,
+                    "F": 23
+                },
+                "air": {
+                    "C": -3.1,
+                    "F": 26.4
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 995,
+                "mm_hg_atm": 746,
+                "in_hg": 39.2
+            },
+            "humidity": {
+                "percent": 69
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 259,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-01 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-02 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677704400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -7.9,
+                    "F": 17.8
+                },
+                "water": {
+                    "C": -5.4,
+                    "F": 22.3
+                },
+                "air": {
+                    "C": -3.5,
+                    "F": 25.7
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 993,
+                "mm_hg_atm": 745,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 73
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 250,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 97
+            },
+            "date": {
+                "UTC": "2023-03-02 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-02 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677715200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -9,
+                    "F": 15.8
+                },
+                "water": {
+                    "C": -5,
+                    "F": 23
+                },
+                "air": {
+                    "C": -3.3,
+                    "F": 26.1
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 5,
+                "intensity": 2,
+                "correction": null,
+                "amount": 0.6,
+                "duration": 0,
+                "type": 2
+            },
+            "pressure": {
+                "h_pa": 992,
+                "mm_hg_atm": 744,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 83
+            },
+            "icon": "c3_s2",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 277,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 87
+            },
+            "date": {
+                "UTC": "2023-03-02 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-02 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677726000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -8.7,
+                    "F": 16.3
+                },
+                "water": {
+                    "C": -4.6,
+                    "F": 23.7
+                },
+                "air": {
+                    "C": -2.8,
+                    "F": 27
+                }
+            },
+            "description": {
+                "full": "Пасмурно, снег"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 994,
+                "mm_hg_atm": 746,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 82
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 302,
+                    "scale_8": 8
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 95
+            },
+            "date": {
+                "UTC": "2023-03-02 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-02 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677736800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.8,
+                    "F": 21.6
+                },
+                "water": {
+                    "C": -2.2,
+                    "F": 28
+                },
+                "air": {
+                    "C": -1.4,
+                    "F": 29.5
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 994,
+                "mm_hg_atm": 746,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 64
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 305,
+                    "scale_8": 8
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 96
+            },
+            "date": {
+                "UTC": "2023-03-02 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-02 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677747600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 4
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -4.5,
+                    "F": 23.9
+                },
+                "water": {
+                    "C": 0.7,
+                    "F": 33.3
+                },
+                "air": {
+                    "C": -0.5,
+                    "F": 31.1
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 994,
+                "mm_hg_atm": 746,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 62
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 275,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 81
+            },
+            "date": {
+                "UTC": "2023-03-02 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-02 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677758400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 4
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.7,
+                    "F": 25.3
+                },
+                "water": {
+                    "C": 1,
+                    "F": 33.8
+                },
+                "air": {
+                    "C": 0.6,
+                    "F": 33.1
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 993,
+                "mm_hg_atm": 745,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 74
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 258,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 86
+            },
+            "date": {
+                "UTC": "2023-03-02 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-02 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677769200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.5,
+                    "F": 25.7
+                },
+                "water": {
+                    "C": -0.9,
+                    "F": 30.4
+                },
+                "air": {
+                    "C": 0.8,
+                    "F": 33.4
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 992,
+                "mm_hg_atm": 744,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 81
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 257,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 85
+            },
+            "date": {
+                "UTC": "2023-03-02 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-02 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677780000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -4.4,
+                    "F": 24.1
+                },
+                "water": {
+                    "C": -0.9,
+                    "F": 30.4
+                },
+                "air": {
+                    "C": 0.4,
+                    "F": 32.7
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 992,
+                "mm_hg_atm": 744,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 84
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 270,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 98
+            },
+            "date": {
+                "UTC": "2023-03-02 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-03 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677790800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.3,
+                    "F": 26.1
+                },
+                "water": {
+                    "C": -0.4,
+                    "F": 31.3
+                },
+                "air": {
+                    "C": 1.1,
+                    "F": 34
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 991,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 85
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 264,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 87
+            },
+            "date": {
+                "UTC": "2023-03-03 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-03 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677801600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -2.2,
+                    "F": 28
+                },
+                "water": {
+                    "C": -0.7,
+                    "F": 30.7
+                },
+                "air": {
+                    "C": 1,
+                    "F": 33.8
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 991,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 87
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 256,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-03 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-03 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677812400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -1.4,
+                    "F": 29.5
+                },
+                "water": {
+                    "C": -1.1,
+                    "F": 30
+                },
+                "air": {
+                    "C": 0.6,
+                    "F": 33.1
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 991,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 83
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 257,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 87
+            },
+            "date": {
+                "UTC": "2023-03-03 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-03 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677823200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -2.2,
+                    "F": 28
+                },
+                "water": {
+                    "C": -0.3,
+                    "F": 31.5
+                },
+                "air": {
+                    "C": 0.9,
+                    "F": 33.6
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 991,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 66
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 273,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 89
+            },
+            "date": {
+                "UTC": "2023-03-03 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-03 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677834000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 3
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3,
+                    "F": 26.6
+                },
+                "water": {
+                    "C": 1.5,
+                    "F": 34.7
+                },
+                "air": {
+                    "C": 1.1,
+                    "F": 34
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 991,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 65
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 265,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 94
+            },
+            "date": {
+                "UTC": "2023-03-03 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-03 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677844800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 3
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -1.3,
+                    "F": 29.7
+                },
+                "water": {
+                    "C": 1.7,
+                    "F": 35.1
+                },
+                "air": {
+                    "C": 2.1,
+                    "F": 35.8
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 990,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 74
+            },
+            "icon": "c3",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 241,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 4,
+                    "m_s": 1,
+                    "mi_h": 2
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 86
+            },
+            "date": {
+                "UTC": "2023-03-03 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-03 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677855600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": 1.1,
+                    "F": 34
+                },
+                "water": {
+                    "C": -0.6,
+                    "F": 30.9
+                },
+                "air": {
+                    "C": 1.1,
+                    "F": 34
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 990,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 75
+            },
+            "icon": "n_c2",
+            "gm": 2,
+            "wind": {
+                "direction": {
+                    "degree": 242,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 4,
+                    "m_s": 1,
+                    "mi_h": 2
+                }
+            },
+            "cloudiness": {
+                "type": 2,
+                "percent": 54
+            },
+            "date": {
+                "UTC": "2023-03-03 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-03 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677866400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": 0.8,
+                    "F": 33.4
+                },
+                "water": {
+                    "C": -1.4,
+                    "F": 29.5
+                },
+                "air": {
+                    "C": 0.8,
+                    "F": 33.4
+                }
+            },
+            "description": {
+                "full": "Облачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 989,
+                "mm_hg_atm": 742,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 79
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 229,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-03 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-04 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677877200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -2.4,
+                    "F": 27.7
+                },
+                "water": {
+                    "C": -1.8,
+                    "F": 28.8
+                },
+                "air": {
+                    "C": 0.2,
+                    "F": 32.4
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 989,
+                "mm_hg_atm": 742,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 82
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 225,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-04 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-04 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677888000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -1.9,
+                    "F": 28.6
+                },
+                "water": {
+                    "C": -2.2,
+                    "F": 28
+                },
+                "air": {
+                    "C": 0,
+                    "F": 32
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 82
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 221,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 4,
+                    "m_s": 1,
+                    "mi_h": 2
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 97
+            },
+            "date": {
+                "UTC": "2023-03-04 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-04 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677898800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -0.1,
+                    "F": 31.8
+                },
+                "water": {
+                    "C": -2,
+                    "F": 28.4
+                },
+                "air": {
+                    "C": -0.1,
+                    "F": 31.8
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 6,
+                "intensity": 1,
+                "correction": null,
+                "amount": 0.2,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 89
+            },
+            "icon": "c3_rs1",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 214,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 94
+            },
+            "date": {
+                "UTC": "2023-03-04 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-04 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677909600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -1.9,
+                    "F": 28.6
+                },
+                "water": {
+                    "C": -0.5,
+                    "F": 31.1
+                },
+                "air": {
+                    "C": -0.1,
+                    "F": 31.8
+                }
+            },
+            "description": {
+                "full": "Пасмурно, небольшой мокрый снег"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 6,
+                "intensity": 1,
+                "correction": null,
+                "amount": 0.8,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 84
+            },
+            "icon": "c3_rs1",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 251,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 98
+            },
+            "date": {
+                "UTC": "2023-03-04 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-04 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677920400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -2.9,
+                    "F": 26.8
+                },
+                "water": {
+                    "C": 0.8,
+                    "F": 33.4
+                },
+                "air": {
+                    "C": 0.3,
+                    "F": 32.5
+                }
+            },
+            "description": {
+                "full": "Пасмурно, небольшой мокрый снег"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 7,
+                "intensity": 1,
+                "correction": null,
+                "amount": 0.2,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 77
+            },
+            "icon": "c3_rs1",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 273,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 78
+            },
+            "date": {
+                "UTC": "2023-03-04 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-04 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677931200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 2
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -1.5,
+                    "F": 29.3
+                },
+                "water": {
+                    "C": 1.6,
+                    "F": 34.9
+                },
+                "air": {
+                    "C": 0.8,
+                    "F": 33.4
+                }
+            },
+            "description": {
+                "full": "Пасмурно, небольшой снег с дождём"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 76
+            },
+            "icon": "d_c1",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": null,
+                    "scale_8": 0
+                },
+                "speed": {
+                    "km_h": 0,
+                    "m_s": 0,
+                    "mi_h": 0
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 44
+            },
+            "date": {
+                "UTC": "2023-03-04 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-04 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677942000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": 0.3,
+                    "F": 32.5
+                },
+                "water": {
+                    "C": -1.3,
+                    "F": 29.7
+                },
+                "air": {
+                    "C": 0.3,
+                    "F": 32.5
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 81
+            },
+            "icon": "n_c1",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 214,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 4,
+                    "m_s": 1,
+                    "mi_h": 2
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 25
+            },
+            "date": {
+                "UTC": "2023-03-04 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-04 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677952800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -1.2,
+                    "F": 29.8
+                },
+                "water": {
+                    "C": -3,
+                    "F": 26.6
+                },
+                "air": {
+                    "C": -1.2,
+                    "F": 29.8
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 83
+            },
+            "icon": "n",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 217,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 5
+            },
+            "date": {
+                "UTC": "2023-03-04 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-05 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677963600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -4.7,
+                    "F": 23.5
+                },
+                "water": {
+                    "C": -3.5,
+                    "F": 25.7
+                },
+                "air": {
+                    "C": -2,
+                    "F": 28.4
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 85
+            },
+            "icon": "n_c1",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 203,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 30
+            },
+            "date": {
+                "UTC": "2023-03-05 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-05 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677974400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.7,
+                    "F": 21.7
+                },
+                "water": {
+                    "C": -3.6,
+                    "F": 25.5
+                },
+                "air": {
+                    "C": -2.2,
+                    "F": 28
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 84
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 194,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 98
+            },
+            "date": {
+                "UTC": "2023-03-05 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-05 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677985200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -6.6,
+                    "F": 20.1
+                },
+                "water": {
+                    "C": -2.9,
+                    "F": 26.8
+                },
+                "air": {
+                    "C": -2,
+                    "F": 28.4
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 83
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 204,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-05 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-05 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1677996000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.1,
+                    "F": 22.8
+                },
+                "water": {
+                    "C": -0.8,
+                    "F": 30.6
+                },
+                "air": {
+                    "C": -0.8,
+                    "F": 30.6
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 985,
+                "mm_hg_atm": 739,
+                "in_hg": 38.8
+            },
+            "humidity": {
+                "percent": 74
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 191,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-05 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-05 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678006800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 3
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -4.1,
+                    "F": 24.6
+                },
+                "water": {
+                    "C": 1.2,
+                    "F": 34.2
+                },
+                "air": {
+                    "C": 0.3,
+                    "F": 32.5
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 986,
+                "mm_hg_atm": 740,
+                "in_hg": 38.8
+            },
+            "humidity": {
+                "percent": 72
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 198,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-05 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-05 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678017600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 3
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -2.7,
+                    "F": 27.1
+                },
+                "water": {
+                    "C": 1.1,
+                    "F": 34
+                },
+                "air": {
+                    "C": 1.1,
+                    "F": 34
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 6,
+                "intensity": 2,
+                "correction": null,
+                "amount": 1.3,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 984,
+                "mm_hg_atm": 738,
+                "in_hg": 38.7
+            },
+            "humidity": {
+                "percent": 83
+            },
+            "icon": "c3_rs2",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 201,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 4,
+                    "m_s": 1,
+                    "mi_h": 2
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-05 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-05 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678028400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 2
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": 0.5,
+                    "F": 32.9
+                },
+                "water": {
+                    "C": 0.1,
+                    "F": 32.2
+                },
+                "air": {
+                    "C": 0.5,
+                    "F": 32.9
+                }
+            },
+            "description": {
+                "full": "Пасмурно, мокрый снег"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 7,
+                "intensity": 2,
+                "correction": null,
+                "amount": 1.2,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 985,
+                "mm_hg_atm": 739,
+                "in_hg": 38.8
+            },
+            "humidity": {
+                "percent": 81
+            },
+            "icon": "c3_rs2",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 252,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-05 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-05 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678039200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.5,
+                    "F": 25.7
+                },
+                "water": {
+                    "C": -0.2,
+                    "F": 31.6
+                },
+                "air": {
+                    "C": -0.3,
+                    "F": 31.5
+                }
+            },
+            "description": {
+                "full": "Пасмурно, снег с дождём"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 986,
+                "mm_hg_atm": 740,
+                "in_hg": 38.8
+            },
+            "humidity": {
+                "percent": 68
+            },
+            "icon": "n_c1",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 257,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 31
+            },
+            "date": {
+                "UTC": "2023-03-05 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-06 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678050000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.8,
+                    "F": 25.2
+                },
+                "water": {
+                    "C": -2.1,
+                    "F": 28.2
+                },
+                "air": {
+                    "C": -0.9,
+                    "F": 30.4
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 986,
+                "mm_hg_atm": 740,
+                "in_hg": 38.8
+            },
+            "humidity": {
+                "percent": 78
+            },
+            "icon": "n",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 231,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 1
+            },
+            "date": {
+                "UTC": "2023-03-06 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-06 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678060800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -4.9,
+                    "F": 23.2
+                },
+                "water": {
+                    "C": -3.3,
+                    "F": 26.1
+                },
+                "air": {
+                    "C": -1.9,
+                    "F": 28.6
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 81
+            },
+            "icon": "n_c1",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 220,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 32
+            },
+            "date": {
+                "UTC": "2023-03-06 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-06 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678071600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -6.6,
+                    "F": 20.1
+                },
+                "water": {
+                    "C": -4.1,
+                    "F": 24.6
+                },
+                "air": {
+                    "C": -2.6,
+                    "F": 27.3
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 80
+            },
+            "icon": "d",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 212,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 16
+            },
+            "date": {
+                "UTC": "2023-03-06 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-06 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678082400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.6,
+                    "F": 21.9
+                },
+                "water": {
+                    "C": -1.3,
+                    "F": 29.7
+                },
+                "air": {
+                    "C": -1.7,
+                    "F": 28.9
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 67
+            },
+            "icon": "d_c1",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 209,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 25
+            },
+            "date": {
+                "UTC": "2023-03-06 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-06 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678093200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 5
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.3,
+                    "F": 26.1
+                },
+                "water": {
+                    "C": 2.2,
+                    "F": 36
+                },
+                "air": {
+                    "C": 0.7,
+                    "F": 33.3
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 62
+            },
+            "icon": "d_c2",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 226,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 2,
+                "percent": 73
+            },
+            "date": {
+                "UTC": "2023-03-06 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-06 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678104000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 6
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3,
+                    "F": 26.6
+                },
+                "water": {
+                    "C": 2.4,
+                    "F": 36.3
+                },
+                "air": {
+                    "C": 0.9,
+                    "F": 33.6
+                }
+            },
+            "description": {
+                "full": "Облачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 67
+            },
+            "icon": "d_c2",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 233,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 2,
+                "percent": 57
+            },
+            "date": {
+                "UTC": "2023-03-06 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-06 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678114800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 2
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.4,
+                    "F": 25.9
+                },
+                "water": {
+                    "C": -0.6,
+                    "F": 30.9
+                },
+                "air": {
+                    "C": 0.4,
+                    "F": 32.7
+                }
+            },
+            "description": {
+                "full": "Облачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 69
+            },
+            "icon": "n",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 226,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 8
+            },
+            "date": {
+                "UTC": "2023-03-06 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-06 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678125600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -4.1,
+                    "F": 24.6
+                },
+                "water": {
+                    "C": -1.4,
+                    "F": 29.5
+                },
+                "air": {
+                    "C": -0.5,
+                    "F": 31.1
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 73
+            },
+            "icon": "n",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": 225,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 7
+            },
+            "date": {
+                "UTC": "2023-03-06 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-07 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678136400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.7,
+                    "F": 21.7
+                },
+                "water": {
+                    "C": -1.6,
+                    "F": 29.1
+                },
+                "air": {
+                    "C": -1.2,
+                    "F": 29.8
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 986,
+                "mm_hg_atm": 740,
+                "in_hg": 38.8
+            },
+            "humidity": {
+                "percent": 76
+            },
+            "icon": "n_c1",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": 226,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 35
+            },
+            "date": {
+                "UTC": "2023-03-07 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-07 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678147200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.7,
+                    "F": 21.7
+                },
+                "water": {
+                    "C": -2,
+                    "F": 28.4
+                },
+                "air": {
+                    "C": -0.9,
+                    "F": 30.4
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 75
+            },
+            "icon": "n",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": 218,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 17
+            },
+            "date": {
+                "UTC": "2023-03-07 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-07 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678158000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.5,
+                    "F": 22.1
+                },
+                "water": {
+                    "C": -2.1,
+                    "F": 28.2
+                },
+                "air": {
+                    "C": -1.4,
+                    "F": 29.5
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 986,
+                "mm_hg_atm": 740,
+                "in_hg": 38.8
+            },
+            "humidity": {
+                "percent": 85
+            },
+            "icon": "c3",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": 216,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 91
+            },
+            "date": {
+                "UTC": "2023-03-07 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-07 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678168800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.1,
+                    "F": 22.8
+                },
+                "water": {
+                    "C": -0.3,
+                    "F": 31.5
+                },
+                "air": {
+                    "C": -1,
+                    "F": 30.2
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 986,
+                "mm_hg_atm": 740,
+                "in_hg": 38.8
+            },
+            "humidity": {
+                "percent": 74
+            },
+            "icon": "c3",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": 224,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-07 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-07 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678179600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 3
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -4.3,
+                    "F": 24.3
+                },
+                "water": {
+                    "C": 2.2,
+                    "F": 36
+                },
+                "air": {
+                    "C": 0.4,
+                    "F": 32.7
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 7,
+                "intensity": 1,
+                "correction": null,
+                "amount": 0.6,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 71
+            },
+            "icon": "c3_rs1",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": 257,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-07 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-07 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678190400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 4
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.9,
+                    "F": 25
+                },
+                "water": {
+                    "C": 1.2,
+                    "F": 34.2
+                },
+                "air": {
+                    "C": 0.9,
+                    "F": 33.6
+                }
+            },
+            "description": {
+                "full": "Пасмурно, небольшой снег с дождём"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 67
+            },
+            "icon": "d",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": 292,
+                    "scale_8": 7
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 5
+            },
+            "date": {
+                "UTC": "2023-03-07 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-07 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678201200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 2
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -7.3,
+                    "F": 18.9
+                },
+                "water": {
+                    "C": -3.3,
+                    "F": 26.1
+                },
+                "air": {
+                    "C": -1.9,
+                    "F": 28.6
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 989,
+                "mm_hg_atm": 742,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 71
+            },
+            "icon": "n",
+            "gm": 5,
+            "wind": {
+                "direction": {
+                    "degree": null,
+                    "scale_8": 0
+                },
+                "speed": {
+                    "km_h": 0,
+                    "m_s": 0,
+                    "mi_h": 0
+                }
+            },
+            "cloudiness": {
+                "type": 0,
+                "percent": 4
+            },
+            "date": {
+                "UTC": "2023-03-07 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-07 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678212000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -2.8,
+                    "F": 27
+                },
+                "water": {
+                    "C": -3.9,
+                    "F": 25
+                },
+                "air": {
+                    "C": -2.8,
+                    "F": 27
+                }
+            },
+            "description": {
+                "full": "Ясно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 991,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 75
+            },
+            "icon": "n_c1",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": null,
+                    "scale_8": 0
+                },
+                "speed": {
+                    "km_h": 0,
+                    "m_s": 0,
+                    "mi_h": 0
+                }
+            },
+            "cloudiness": {
+                "type": 1,
+                "percent": 48
+            },
+            "date": {
+                "UTC": "2023-03-07 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-08 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678222800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.2,
+                    "F": 26.2
+                },
+                "water": {
+                    "C": -4.5,
+                    "F": 23.9
+                },
+                "air": {
+                    "C": -3.2,
+                    "F": 26.2
+                }
+            },
+            "description": {
+                "full": "Малооблачно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 991,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 79
+            },
+            "icon": "c3",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 165,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-08 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-08 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678233600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -7.2,
+                    "F": 19
+                },
+                "water": {
+                    "C": -4.7,
+                    "F": 23.5
+                },
+                "air": {
+                    "C": -4.6,
+                    "F": 23.7
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 993,
+                "mm_hg_atm": 745,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 82
+            },
+            "icon": "c3",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 155,
+                    "scale_8": 4
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-08 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-08 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678244400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -12.6,
+                    "F": 9.3
+                },
+                "water": {
+                    "C": -4.9,
+                    "F": 23.2
+                },
+                "air": {
+                    "C": -6.4,
+                    "F": 20.5
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 994,
+                "mm_hg_atm": 746,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 70
+            },
+            "icon": "c3",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 178,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-08 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-08 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678255200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -7.2,
+                    "F": 19
+                },
+                "water": {
+                    "C": -3.3,
+                    "F": 26.1
+                },
+                "air": {
+                    "C": -3.7,
+                    "F": 25.3
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 993,
+                "mm_hg_atm": 745,
+                "in_hg": 39.1
+            },
+            "humidity": {
+                "percent": 73
+            },
+            "icon": "c3",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 182,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-08 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-08 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678266000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 3
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -6.1,
+                    "F": 21
+                },
+                "water": {
+                    "C": -0.7,
+                    "F": 30.7
+                },
+                "air": {
+                    "C": -1.8,
+                    "F": 28.8
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 990,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 77
+            },
+            "icon": "c3",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 175,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-08 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-08 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678276800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 2
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.5,
+                    "F": 22.1
+                },
+                "water": {
+                    "C": -1.3,
+                    "F": 29.7
+                },
+                "air": {
+                    "C": -1.7,
+                    "F": 28.9
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 87
+            },
+            "icon": "c3",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 164,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-08 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-08 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678287600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.4,
+                    "F": 22.3
+                },
+                "water": {
+                    "C": -0.5,
+                    "F": 31.1
+                },
+                "air": {
+                    "C": -1.5,
+                    "F": 29.3
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 6,
+                "intensity": 1,
+                "correction": null,
+                "amount": 0.4,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 91
+            },
+            "icon": "c3_rs1",
+            "gm": 4,
+            "wind": {
+                "direction": {
+                    "degree": 181,
+                    "scale_8": 5
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-08 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-08 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678298400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -6,
+                    "F": 21.2
+                },
+                "water": {
+                    "C": 0.3,
+                    "F": 32.5
+                },
+                "air": {
+                    "C": -1,
+                    "F": 30.2
+                }
+            },
+            "description": {
+                "full": "Пасмурно, небольшой мокрый снег"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 6,
+                "intensity": 1,
+                "correction": null,
+                "amount": 0.1,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 988,
+                "mm_hg_atm": 741,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 97
+            },
+            "icon": "c3_rs1",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 208,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 14,
+                    "m_s": 4,
+                    "mi_h": 9
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-08 21:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-09 00:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678309200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -5.7,
+                    "F": 21.7
+                },
+                "water": {
+                    "C": 0.4,
+                    "F": 32.7
+                },
+                "air": {
+                    "C": -1.3,
+                    "F": 29.7
+                }
+            },
+            "description": {
+                "full": "Пасмурно, небольшой мокрый снег"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 99
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 231,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 4,
+                    "m_s": 1,
+                    "mi_h": 2
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-09 00:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-09 03:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678320000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -1.7,
+                    "F": 28.9
+                },
+                "water": {
+                    "C": 0.1,
+                    "F": 32.2
+                },
+                "air": {
+                    "C": -1.7,
+                    "F": 28.9
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 97
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 216,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 4,
+                    "m_s": 1,
+                    "mi_h": 2
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-09 03:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-09 06:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678330800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -2.4,
+                    "F": 27.7
+                },
+                "water": {
+                    "C": -0.5,
+                    "F": 31.1
+                },
+                "air": {
+                    "C": -2.4,
+                    "F": 27.7
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 985,
+                "mm_hg_atm": 739,
+                "in_hg": 38.8
+            },
+            "humidity": {
+                "percent": 91
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 211,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-09 06:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-09 09:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678341600
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -3.4,
+                    "F": 25.9
+                },
+                "water": {
+                    "C": 0.7,
+                    "F": 33.3
+                },
+                "air": {
+                    "C": -0.3,
+                    "F": 31.5
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 990,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 81
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 215,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 7,
+                    "m_s": 2,
+                    "mi_h": 4
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-09 09:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-09 12:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678352400
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -1.7,
+                    "F": 28.9
+                },
+                "water": {
+                    "C": 1.4,
+                    "F": 34.5
+                },
+                "air": {
+                    "C": 0.6,
+                    "F": 33.1
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 0,
+                "intensity": 0,
+                "correction": null,
+                "amount": 0,
+                "duration": 0,
+                "type": 0
+            },
+            "pressure": {
+                "h_pa": 987,
+                "mm_hg_atm": 740,
+                "in_hg": 38.9
+            },
+            "humidity": {
+                "percent": 79
+            },
+            "icon": "c3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 233,
+                    "scale_8": 6
+                },
+                "speed": {
+                    "km_h": 4,
+                    "m_s": 1,
+                    "mi_h": 2
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 99
+            },
+            "date": {
+                "UTC": "2023-03-09 12:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-09 15:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678363200
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": 2,
+                    "F": 35.6
+                },
+                "water": {
+                    "C": 1.5,
+                    "F": 34.7
+                },
+                "air": {
+                    "C": 2,
+                    "F": 35.6
+                }
+            },
+            "description": {
+                "full": "Пасмурно"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 7,
+                "intensity": 1,
+                "correction": null,
+                "amount": 0.1,
+                "duration": 0,
+                "type": 3
+            },
+            "pressure": {
+                "h_pa": 990,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 84
+            },
+            "icon": "c3_rs1",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 1,
+                    "scale_8": 1
+                },
+                "speed": {
+                    "km_h": 11,
+                    "m_s": 3,
+                    "mi_h": 6
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-09 15:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-09 18:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678374000
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 1
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -4.9,
+                    "F": 23.2
+                },
+                "water": {
+                    "C": -0.3,
+                    "F": 31.5
+                },
+                "air": {
+                    "C": -1.1,
+                    "F": 30
+                }
+            },
+            "description": {
+                "full": "Пасмурно, небольшой снег с дождём"
+            }
+        },
+        {
+            "precipitation": {
+                "type_ext": 8,
+                "intensity": 3,
+                "correction": null,
+                "amount": 2.5,
+                "duration": 0,
+                "type": 2
+            },
+            "pressure": {
+                "h_pa": 990,
+                "mm_hg_atm": 743,
+                "in_hg": 39
+            },
+            "humidity": {
+                "percent": 79
+            },
+            "icon": "c3_s3",
+            "gm": 3,
+            "wind": {
+                "direction": {
+                    "degree": 24,
+                    "scale_8": 2
+                },
+                "speed": {
+                    "km_h": 18,
+                    "m_s": 5,
+                    "mi_h": 11
+                }
+            },
+            "cloudiness": {
+                "type": 3,
+                "percent": 100
+            },
+            "date": {
+                "UTC": "2023-03-09 18:00:00",
+                "time_zone_offset": 180,
+                "local": "2023-03-09 21:00:00",
+                "hr_to_forecast": null,
+                "unix": 1678384800
+            },
+            "radiation": {
+                "uvb_index": 0,
+                "UVB": 0
+            },
+            "city": 5026,
+            "kind": "Frc",
+            "storm": false,
+            "temperature": {
+                "comfort": {
+                    "C": -8.3,
+                    "F": 17.1
+                },
+                "water": {
+                    "C": -1.6,
+                    "F": 29.1
+                },
+                "air": {
+                    "C": -2.5,
+                    "F": 27.5
+                }
+            },
+            "description": {
+                "full": "Пасмурно, сильный ледяные зёрна"
+            }
+        }
+    ]
+}

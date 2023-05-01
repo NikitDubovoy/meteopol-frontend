@@ -1,0 +1,16 @@
+.splash-screen__title {
+    font-family: Etna;
+    color: #877ea8;
+    font-size: 100px;
+    margin: 0;
+    letter-spacing: 5px;
+    overflow: hidden;
+    width: 0;
+    text-align: center;
+}
+
+@media screen and (max-width: 620px){
+    .splash-screen__title{
+        font-size: 72px;
+    }
+}

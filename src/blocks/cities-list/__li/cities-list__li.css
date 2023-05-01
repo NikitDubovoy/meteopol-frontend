@@ -1,0 +1,15 @@
+.cities-list__li {
+    padding: 5px 5px;
+    border-radius:4px;
+    cursor: pointer;
+    text-shadow: none;
+    transition: 0.3s;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.cities-list__li:hover {
+    background-color: #fff;
+    color: #000;
+    transition: 0.3s;
+}
